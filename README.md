@@ -15,15 +15,12 @@ Ce mini projet vise à analyser les données épidémiologiques du COVID-19 au S
 ├── reports/figures/ # Visualisations (graphiques, cartes)
 └── resume_analyse.md # Synthèse des résultats
 
-Copy
-
 ## 📊 Résultats clés
 ![Graphique d'évolution](reports/figures/Evolution_hebdomadaire_des_indicateurs.png)  
 *Exemple : Évolution hebdomadaire des cas confirmés*
 
 ## 🛠️ Installation
 1. Cloner le dépôt :
-```bash
 git clone https://github.com/InnoDataNiako/NeuralFrontiers.git
 Installer les dépendances :
 pip install -r requirements.txt
