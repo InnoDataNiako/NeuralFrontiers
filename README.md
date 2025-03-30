@@ -16,7 +16,7 @@ Ce mini projet vise à analyser les données épidémiologiques du COVID-19 au S
 └── resume_analyse.md # Synthèse des résultats
 
 ## 📊 Résultats clés
-![Graphique d'évolution](reports/figures/Evolution_hebdomadaire_des_indicateurs.png)  
+![Graphique d'évolution](reports/figures/Evolution hebdomadaire des indicateurs.png)  
 *Exemple : Évolution hebdomadaire des cas confirmés*
 
 ## 🛠️ Installation
